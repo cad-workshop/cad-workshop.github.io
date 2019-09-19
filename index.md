@@ -4,6 +4,7 @@ subtitle: 1st Workshop on Computational Approaches to Discourse
 layout: page
 callouts: home_callouts
 show_sidebar: true
+hide_footer: true
 ---
 
 # Workshop on Computational Approaches to Discourse

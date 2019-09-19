@@ -4,6 +4,7 @@ subtitle: List of organizers and short bios
 layout: page
 show_sidebar: false
 hide_hero: true
+hide_footer: true
 ---
 
 # Organizers
