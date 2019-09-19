@@ -1,51 +1,20 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: CAD 2020
+subtitle: 1st Workshop on Computational Approaches to Discourse
 layout: page
 callouts: home_callouts
 show_sidebar: true
 ---
 
-# Bulma Clean Theme demo website
+# Workshop on Computational Approaches to Discourse
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+The last five years have seen a dramatic improvement in the ability of NLP systems to understand and produce words and sentences. This development has created a renewed interest in discourse problems as researchers move towards the processing of long-form text and conversations. There is a surge of activity in discourse parsing, coherence models, text summarization, corpora for discourse level reading comprehension, and discourse related/aided representation learning, to name a few.  [if possible, give some citations?] At this juncture, we envision that a workshop that brings together discourse experts and upcoming researchers will catalyze the speed and knowledge needed to solve such problems, as well as serve as a forum for the discussion of suitable datasets and reliable evaluation methods. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+The previous workshops on discourse in machine translation (DiscoMT), linking lexical, sentential and discourse semantics (LSDSem), discourse structure in natural language generation (DSNNLG), discourse parsing and treebanking (DisRPT) and coreference (CORBON/CRAC), have shown that there is considerable interest and success in bringing together the community working on specific problems. We believe that the discourse community will also benefit from a general place forum where work ranging from corpus development/analysis to computational models, and evaluation is discussed, and desiderata can be drawn for future progress. 
 
-## Ruby Gem
+The Workshop on Computational Approaches to Discourse brings together researchers interested in all aspects of discourse and its computational modeling. We welcome symbolic and probabilistic approaches, corpus development and analysis, as well as machine and deep learning approaches to discourse. We appreciate theoretical contributions as well as practical applications, including demos of systems and tools. The goal of the workshop is to provide a forum for the community of NLP researchers working on all aspects of discourse. 
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
 
-## GitHub Pages
+## Contact
 
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Instructions
-
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Landing Page With Callouts
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+To contact the organizers, please send an email to: cad.chairs@gmail.com.
