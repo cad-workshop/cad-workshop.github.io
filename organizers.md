@@ -8,6 +8,8 @@ hide_hero: true
 
 # Organizers
 
+To contact the organizers, please send an email to: cad.chairs@gmail.com.
+
 #### Chloé Braud, Researcher at CNRS - LORIA (Nancy, France)
 
 chloe.braud@loria.fr
