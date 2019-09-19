@@ -2,7 +2,6 @@
 title: CAD 2020
 subtitle: 1st Workshop on Computational Approaches to Discourse
 layout: page
-callouts: home_callouts
 show_sidebar: true
 hide_footer: true
 ---
@@ -18,4 +17,5 @@ The Workshop on Computational Approaches to Discourse brings together researcher
 
 ## Contact
 
-To contact the organizers, please send an email to: cad.chairs@gmail.com.
+To contact the organizers, please send an email to:
+[cad.chairs@gmail.com](cad.chairs@gmail.com)
