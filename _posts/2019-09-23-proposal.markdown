@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Workshop proposal"
+date:   2018-09-23
+categories: news
+published: true
+---
+
+The workshop proposal has been sent! Waiting for ACL's response.
