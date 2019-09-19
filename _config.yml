@@ -1,11 +1,11 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: CAD 2020
+tagline: 1st Workshop on Computational Approaches to Discourse
+email: cad.chairs@gmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+baseurl: ""
+url: "https://cad-workshop.github.io"
 permalink: pretty
 
 paginate: 5
