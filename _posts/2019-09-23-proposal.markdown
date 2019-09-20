@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Workshop proposal"
-date:   2018-09-23
+date:   2019-09-23
 categories: news
 published: true
 image: false
