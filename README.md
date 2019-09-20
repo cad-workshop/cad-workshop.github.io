@@ -1,3 +1,11 @@
+# TODOs
+
+* Solve the issue with pictures and blog post
+* Organize the pages with a directory
+* Add callouts?
+* Change color
+* Add pictures of the organizers?
+
 # bulma-clean-theme
 
 [![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
