@@ -1,6 +1,6 @@
 ---
-title: CAD 2020
-subtitle: 1st Workshop on Computational Approaches to Discourse
+title: CAD 2020: 1st Workshop on Computational Approaches to Discourse
+subtitle: Endorsed by [SIGDIAL](https://www.sigdial.org/)
 layout: page
 show_sidebar: true
 hide_footer: true
