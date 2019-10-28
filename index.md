@@ -1,5 +1,5 @@
 ---
-title: CAD 2020 
+title: CAD 2020 - EMNLP workshop
 subtitle: 1st Workshop on Computational Approaches to Discourse
 layout: page
 show_sidebar: true
