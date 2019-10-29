@@ -16,6 +16,10 @@ The previous workshops on discourse in machine translation (DiscoMT), linking le
 
 The Workshop on Computational Approaches to Discourse brings together researchers interested in all aspects of discourse and its computational modeling. We welcome symbolic and probabilistic approaches, corpus development and analysis, as well as machine and deep learning approaches to discourse. We appreciate theoretical contributions as well as practical applications, including demos of systems and tools. The goal of the workshop is to provide a forum for the community of NLP researchers working on all aspects of discourse. 
 
+# Important dates
+
+The workshop will take place during EMNLP 2020, thus on **November 11 or 12, 2020**.
+
 
 ## Contact
 

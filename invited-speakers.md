@@ -9,4 +9,5 @@ hide_footer: true
 
 # Invited Speakers
 
-Tba
+[Eduard Hovy](https://www.cs.cmu.edu/~hovy/), Research Professor at the Language Technologies Institute of Carnegie Mellon University.
+
