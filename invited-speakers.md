@@ -10,7 +10,7 @@ hide_footer: true
 # Invited Speakers
 
 <div class="align-left-container">
-        <img src="img/EMJrVq.jpg" height="142" width="142" />
+        <img src="/img/EMJrVq.jpg" height="142" width="142" />
     </div>
 
 
@@ -18,7 +18,7 @@ hide_footer: true
 
 
 <div class="align-left-container">
-        <img src="iimg/eunsolchoi.png" height="142" width="142" />
+        <img src="/img/eunsolchoi.png" height="142" width="142" />
     </div>
 
 [Eunsol Choi](https://homes.cs.washington.edu/~eunsol/), assistant professor at the CS department at UT Austin.
